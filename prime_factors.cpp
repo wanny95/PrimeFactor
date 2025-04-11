@@ -3,6 +3,7 @@
 class PrimeFactor {
 public:
 	std::vector<int> of(int i) {
-		return {};
+		std::vector<int> result = {};
+		return result;
 	}
 };
